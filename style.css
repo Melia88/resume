@@ -1,0 +1,12 @@
+/* NOTE create all variables at the :root to be used throughout the document */
+
+:root{
+  --company-blue: #153f98;
+}
+
+
+header {
+  background-color: var(--primary);
+  color:ghostwhite;
+}
+/* .text-primary */
